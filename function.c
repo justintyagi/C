@@ -18,14 +18,3 @@
 // int sum(int a,int b){
 //     return a+b;
 // }
-
-# include<stdio.h>
-written(int a){
-    int a=5;
-    return a;
-
-}
-int main()[
-    written(a)
-    return 0;
-]
