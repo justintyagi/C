@@ -8,7 +8,10 @@ int main()
     int i;
     for (i = 0; i < 5; i++)
     {
-        printf("%d ", arr[i]);
+        // printf("%d ", arr[i]);
+        int temp = arr[i];
+        arr[i] > temp;
+        temp = arr[i];
     }
 
     printf("\n");
